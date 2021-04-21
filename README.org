@@ -1,0 +1,12 @@
+* org-mode-learn
+Learning Org mode
+-----
+
+* h1 heading
+** h2 heading
+*** h3 heading
+
+* Code
+~* h1 heading~   
+~** h2 heading~  
+~*** h3 heading~  
